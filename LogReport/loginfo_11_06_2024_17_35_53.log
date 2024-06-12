@@ -1,0 +1,54 @@
+2024-06-11 17:35:56 INFO  Keywords:92 - Navigate is called
+2024-06-11 17:36:01 INFO  Keywords:120 - InputText is called
+2024-06-11 17:36:01 INFO  Keywords:281 - Waiting for webElement...login.username
+2024-06-11 17:36:01 INFO  Keywords:285 - Element found...login.username
+2024-06-11 17:36:01 INFO  Keywords:120 - InputText is called
+2024-06-11 17:36:01 INFO  Keywords:281 - Waiting for webElement...login.password
+2024-06-11 17:36:01 INFO  Keywords:285 - Element found...login.password
+2024-06-11 17:36:01 INFO  Keywords:133 - ClickOnLink is called
+2024-06-11 17:36:01 INFO  Keywords:281 - Waiting for webElement...login.loginbutton
+2024-06-11 17:36:01 INFO  Keywords:285 - Element found...login.loginbutton
+2024-06-11 17:36:11 INFO  Keywords:281 - Waiting for webElement...userlist.partner
+2024-06-11 17:36:11 INFO  Keywords:285 - Element found...userlist.partner
+2024-06-11 17:36:21 INFO  Keywords:281 - Waiting for webElement...userlist.userrole
+2024-06-11 17:36:21 INFO  Keywords:285 - Element found...userlist.userrole
+2024-06-11 17:36:21 INFO  Keywords:120 - InputText is called
+2024-06-11 17:36:21 INFO  Keywords:281 - Waiting for webElement...userlist.loginID
+2024-06-11 17:36:21 INFO  Keywords:285 - Element found...userlist.loginID
+2024-06-11 17:36:21 INFO  Keywords:133 - ClickOnLink is called
+2024-06-11 17:36:21 INFO  Keywords:281 - Waiting for webElement...userlist.search
+2024-06-11 17:36:21 INFO  Keywords:285 - Element found...userlist.search
+2024-06-11 17:36:31 INFO  Keywords:133 - ClickOnLink is called
+2024-06-11 17:36:31 INFO  Keywords:281 - Waiting for webElement...userlist.selectuser
+2024-06-11 17:36:31 INFO  Keywords:285 - Element found...userlist.selectuser
+2024-06-11 17:36:31 INFO  Keywords:133 - ClickOnLink is called
+2024-06-11 17:36:31 INFO  Keywords:281 - Waiting for webElement...userlist.login
+2024-06-11 17:36:31 INFO  Keywords:285 - Element found...userlist.login
+2024-06-11 17:36:45 INFO  Keywords:281 - Waiting for webElement...userinformation.initialaction
+2024-06-11 17:36:45 INFO  Keywords:285 - Element found...userinformation.initialaction
+2024-06-11 17:36:45 INFO  Keywords:281 - Waiting for webElement...userinformation.rawxml
+2024-06-11 17:36:45 INFO  Keywords:285 - Element found...userinformation.rawxml
+2024-06-11 17:36:56 INFO  Keywords:440 - switching to parent window...
+2024-06-11 17:37:14 INFO  Keywords:133 - ClickOnLink is called
+2024-06-11 17:37:14 INFO  Keywords:281 - Waiting for webElement...userinformation.samllogin
+2024-06-11 17:37:14 INFO  Keywords:285 - Element found...userinformation.samllogin
+2024-06-11 17:37:24 INFO  Keywords:281 - Waiting for webElement...carrier.Account
+2024-06-11 17:37:44 INFO  Keywords:281 - Waiting for webElement...carrier.AgentName
+2024-06-11 17:38:04 INFO  Keywords:281 - Waiting for webElement...Carrier.SolicitationState
+2024-06-11 17:38:24 INFO  Keywords:281 - Waiting for webElement...carrier.carrierName
+2024-06-11 17:38:45 INFO  Keywords:281 - Waiting for webElement...carrier.carrierProduct
+2024-06-11 17:39:05 INFO  Keywords:133 - ClickOnLink is called
+2024-06-11 17:39:05 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-11 17:39:05 INFO  Keywords:285 - Element found...next
+2024-06-11 17:39:15 INFO  Keywords:281 - Waiting for webElement...plan.accountDesignation
+2024-06-11 17:39:35 INFO  Keywords:281 - Waiting for webElement...plan.planType
+2024-06-11 17:39:57 INFO  Keywords:281 - Waiting for webElement...plan.ownerType
+2024-06-11 17:40:07 INFO  Keywords:281 - Waiting for webElement...plan.owninsuranceplan
+2024-06-11 17:40:18 INFO  Keywords:281 - Waiting for webElement...plan.age60orOver
+2024-06-11 17:40:28 INFO  Keywords:133 - ClickOnLink is called
+2024-06-11 17:40:28 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-11 17:40:28 INFO  Keywords:285 - Element found...next
+2024-06-11 17:40:38 INFO  Keywords:516 - ClearText is called
+2024-06-11 17:40:38 INFO  Keywords:281 - Waiting for webElement...Indowner.dateofbirth
+2024-06-11 17:40:38 INFO  Keywords:120 - InputText is called
+2024-06-11 17:40:38 INFO  Keywords:281 - Waiting for webElement...Indowner.dateofbirth

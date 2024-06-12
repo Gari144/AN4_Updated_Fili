@@ -1,0 +1,202 @@
+2024-06-12 14:36:55 INFO  Keywords:92 - Navigate is called
+2024-06-12 14:37:00 INFO  Keywords:120 - InputText is called
+2024-06-12 14:37:00 INFO  Keywords:281 - Waiting for webElement...login.username
+2024-06-12 14:37:00 INFO  Keywords:285 - Element found...login.username
+2024-06-12 14:37:00 INFO  Keywords:120 - InputText is called
+2024-06-12 14:37:00 INFO  Keywords:281 - Waiting for webElement...login.password
+2024-06-12 14:37:00 INFO  Keywords:285 - Element found...login.password
+2024-06-12 14:37:00 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:37:00 INFO  Keywords:281 - Waiting for webElement...login.loginbutton
+2024-06-12 14:37:00 INFO  Keywords:285 - Element found...login.loginbutton
+2024-06-12 14:37:11 INFO  Keywords:281 - Waiting for webElement...userlist.partner
+2024-06-12 14:37:11 INFO  Keywords:285 - Element found...userlist.partner
+2024-06-12 14:37:21 INFO  Keywords:281 - Waiting for webElement...userlist.userrole
+2024-06-12 14:37:21 INFO  Keywords:285 - Element found...userlist.userrole
+2024-06-12 14:37:21 INFO  Keywords:120 - InputText is called
+2024-06-12 14:37:21 INFO  Keywords:281 - Waiting for webElement...userlist.loginID
+2024-06-12 14:37:21 INFO  Keywords:285 - Element found...userlist.loginID
+2024-06-12 14:37:21 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:37:21 INFO  Keywords:281 - Waiting for webElement...userlist.search
+2024-06-12 14:37:21 INFO  Keywords:285 - Element found...userlist.search
+2024-06-12 14:37:31 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:37:31 INFO  Keywords:281 - Waiting for webElement...userlist.selectuser
+2024-06-12 14:37:31 INFO  Keywords:285 - Element found...userlist.selectuser
+2024-06-12 14:37:31 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:37:31 INFO  Keywords:281 - Waiting for webElement...userlist.login
+2024-06-12 14:37:31 INFO  Keywords:285 - Element found...userlist.login
+2024-06-12 14:37:45 INFO  Keywords:281 - Waiting for webElement...userinformation.initialaction
+2024-06-12 14:37:45 INFO  Keywords:285 - Element found...userinformation.initialaction
+2024-06-12 14:37:45 INFO  Keywords:281 - Waiting for webElement...userinformation.rawxml
+2024-06-12 14:37:45 INFO  Keywords:285 - Element found...userinformation.rawxml
+2024-06-12 14:37:55 INFO  Keywords:440 - switching to parent window...
+2024-06-12 14:38:12 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:38:12 INFO  Keywords:281 - Waiting for webElement...userinformation.samllogin
+2024-06-12 14:38:12 INFO  Keywords:285 - Element found...userinformation.samllogin
+2024-06-12 14:38:22 INFO  Keywords:281 - Waiting for webElement...carrier.Account
+2024-06-12 14:38:42 INFO  Keywords:281 - Waiting for webElement...carrier.AgentName
+2024-06-12 14:39:02 INFO  Keywords:281 - Waiting for webElement...Carrier.SolicitationState
+2024-06-12 14:39:23 INFO  Keywords:281 - Waiting for webElement...carrier.carrierName
+2024-06-12 14:39:43 INFO  Keywords:281 - Waiting for webElement...carrier.carrierProduct
+2024-06-12 14:40:03 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:40:03 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:40:23 INFO  Keywords:281 - Waiting for webElement...plan.accountDesignation
+2024-06-12 14:40:43 INFO  Keywords:281 - Waiting for webElement...plan.planType
+2024-06-12 14:41:04 INFO  Keywords:281 - Waiting for webElement...plan.ownerType
+2024-06-12 14:41:14 INFO  Keywords:281 - Waiting for webElement...plan.owninsuranceplan
+2024-06-12 14:41:24 INFO  Keywords:281 - Waiting for webElement...plan.age60orOver
+2024-06-12 14:41:34 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:41:34 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:41:55 INFO  Keywords:516 - ClearText is called
+2024-06-12 14:41:55 INFO  Keywords:281 - Waiting for webElement...Indowner.dateofbirth
+2024-06-12 14:42:05 INFO  Keywords:120 - InputText is called
+2024-06-12 14:42:05 INFO  Keywords:281 - Waiting for webElement...Indowner.dateofbirth
+2024-06-12 14:42:15 INFO  Keywords:120 - InputText is called
+2024-06-12 14:42:15 INFO  Keywords:281 - Waiting for webElement...Indowner.mobilephonenumber1
+2024-06-12 14:42:25 INFO  Keywords:120 - InputText is called
+2024-06-12 14:42:25 INFO  Keywords:281 - Waiting for webElement...Indowner.mobilephonenumber2
+2024-06-12 14:42:35 INFO  Keywords:120 - InputText is called
+2024-06-12 14:42:35 INFO  Keywords:281 - Waiting for webElement...Indowner.mobilephonenumber3
+2024-06-12 14:42:45 INFO  Keywords:281 - Waiting for webElement...Indowner.Is_there_Joint_Annuitant_YES
+2024-06-12 14:42:55 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:42:55 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:43:16 INFO  Keywords:120 - InputText is called
+2024-06-12 14:43:16 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant.FirstName
+2024-06-12 14:43:26 INFO  Keywords:120 - InputText is called
+2024-06-12 14:43:26 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant.LastName
+2024-06-12 14:43:36 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.Gender
+2024-06-12 14:43:46 INFO  Keywords:120 - InputText is called
+2024-06-12 14:43:46 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.DateOfBirth
+2024-06-12 14:43:56 INFO  Keywords:120 - InputText is called
+2024-06-12 14:43:56 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.SSN1
+2024-06-12 14:44:07 INFO  Keywords:120 - InputText is called
+2024-06-12 14:44:07 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.SSN2
+2024-06-12 14:44:17 INFO  Keywords:120 - InputText is called
+2024-06-12 14:44:17 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.SSN3
+2024-06-12 14:44:27 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:44:27 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.Physicalstreetaddress
+2024-06-12 14:44:37 INFO  Keywords:281 - Waiting for webElement...jointAnnuitant1.RelationtoAnnuitant
+2024-06-12 14:44:47 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:44:47 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:45:08 INFO  Keywords:281 - Waiting for webElement...contractFeatures.Guaranteed_Minimum_Withdrawal_Benefit_Nationwide_Retirement_Income_Rider_Spousal
+2024-06-12 14:45:18 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:45:18 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:45:38 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:45:38 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:45:58 INFO  Keywords:281 - Waiting for webElement...beneficiary.Surviving_Owner_Designation
+2024-06-12 14:46:08 INFO  Keywords:281 - Waiting for webElement...beneficiary.beneficiarytype
+2024-06-12 14:46:19 INFO  Keywords:120 - InputText is called
+2024-06-12 14:46:19 INFO  Keywords:281 - Waiting for webElement...beneficiary.percentage
+2024-06-12 14:46:29 INFO  Keywords:120 - InputText is called
+2024-06-12 14:46:29 INFO  Keywords:281 - Waiting for webElement...beneficiary.entity_name
+2024-06-12 14:46:39 INFO  Keywords:281 - Waiting for webElement...beneficiary.gender
+2024-06-12 14:46:49 INFO  Keywords:120 - InputText is called
+2024-06-12 14:46:49 INFO  Keywords:281 - Waiting for webElement...beneficiary.dateofbirth
+2024-06-12 14:46:59 INFO  Keywords:281 - Waiting for webElement...beneficiary.relationtoAnnuitant
+2024-06-12 14:47:10 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:47:10 INFO  Keywords:281 - Waiting for webElement...beneficiary.addBeneficiary
+2024-06-12 14:47:30 INFO  Keywords:281 - Waiting for webElement...beneficiary.beneficiarytype
+2024-06-12 14:47:40 INFO  Keywords:120 - InputText is called
+2024-06-12 14:47:40 INFO  Keywords:281 - Waiting for webElement...beneficiary.percentage
+2024-06-12 14:47:50 INFO  Keywords:120 - InputText is called
+2024-06-12 14:47:50 INFO  Keywords:281 - Waiting for webElement...beneficiary.entity_name
+2024-06-12 14:48:00 INFO  Keywords:281 - Waiting for webElement...beneficiary.gender
+2024-06-12 14:48:11 INFO  Keywords:120 - InputText is called
+2024-06-12 14:48:11 INFO  Keywords:281 - Waiting for webElement...beneficiary.dateofbirth
+2024-06-12 14:48:31 INFO  Keywords:281 - Waiting for webElement...beneficiary.relationtoAnnuitant
+2024-06-12 14:48:41 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:48:41 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:49:01 INFO  Keywords:281 - Waiting for webElement...payment.moneySource
+2024-06-12 14:49:21 INFO  Keywords:281 - Waiting for webElement...payment.paymentmethod
+2024-06-12 14:49:31 INFO  Keywords:120 - InputText is called
+2024-06-12 14:49:31 INFO  Keywords:281 - Waiting for webElement...payment.amount
+2024-06-12 14:49:42 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:49:42 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:50:02 INFO  Keywords:120 - InputText is called
+2024-06-12 14:50:02 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.CompanyName
+2024-06-12 14:50:12 INFO  Keywords:120 - InputText is called
+2024-06-12 14:50:12 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Account_number
+2024-06-12 14:50:22 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Partialexchangeinformation
+2024-06-12 14:50:32 INFO  Keywords:120 - InputText is called
+2024-06-12 14:50:32 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Financial_Address
+2024-06-12 14:50:43 INFO  Keywords:120 - InputText is called
+2024-06-12 14:50:43 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Financial_City
+2024-06-12 14:50:53 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Financial_State
+2024-06-12 14:51:03 INFO  Keywords:120 - InputText is called
+2024-06-12 14:51:03 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Financial_PostalCode
+2024-06-12 14:51:13 INFO  Keywords:120 - InputText is called
+2024-06-12 14:51:13 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Plantype
+2024-06-12 14:51:24 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Transferproceeds
+2024-06-12 14:51:34 INFO  Keywords:120 - InputText is called
+2024-06-12 14:51:34 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Estimatedsurrenderchargeamount
+2024-06-12 14:51:44 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:51:44 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:52:04 INFO  Keywords:281 - Waiting for webElement...paymentsuitabilityquestions.paymentsuitability
+2024-06-12 14:52:14 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:52:14 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:52:34 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:52:34 INFO  Keywords:281 - Waiting for webElement...payment.addpayment
+2024-06-12 14:52:55 INFO  Keywords:281 - Waiting for webElement...payment.moneySource
+2024-06-12 14:53:15 INFO  Keywords:281 - Waiting for webElement...payment.paymentmethod
+2024-06-12 14:53:25 INFO  Keywords:120 - InputText is called
+2024-06-12 14:53:25 INFO  Keywords:281 - Waiting for webElement...payment.amount
+2024-06-12 14:53:35 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:53:35 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:53:55 INFO  Keywords:120 - InputText is called
+2024-06-12 14:53:55 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.CompanyName2
+2024-06-12 14:54:06 INFO  Keywords:120 - InputText is called
+2024-06-12 14:54:06 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Account_number
+2024-06-12 14:54:16 INFO  Keywords:120 - InputText is called
+2024-06-12 14:54:16 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Estimated_value_of_investment
+2024-06-12 14:54:26 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Partialexchangeinformation
+2024-06-12 14:54:36 INFO  Keywords:120 - InputText is called
+2024-06-12 14:54:36 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Financial_Address
+2024-06-12 14:54:46 INFO  Keywords:120 - InputText is called
+2024-06-12 14:54:46 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Financial_City
+2024-06-12 14:54:57 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Financial_State
+2024-06-12 14:55:07 INFO  Keywords:120 - InputText is called
+2024-06-12 14:55:07 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Financial_PostalCode
+2024-06-12 14:55:17 INFO  Keywords:120 - InputText is called
+2024-06-12 14:55:17 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Plantype
+2024-06-12 14:55:27 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Transferproceeds
+2024-06-12 14:55:37 INFO  Keywords:120 - InputText is called
+2024-06-12 14:55:37 INFO  Keywords:281 - Waiting for webElement...additionalInfo.payment.Estimatedsurrenderchargeamount
+2024-06-12 14:55:48 INFO  Keywords:281 - Waiting for webElement...payment2suitabilityquestions.allcarriershavepremiumthresholdsthatmayrequirelargecasepre-approval.
+2024-06-12 14:55:48 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:55:48 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:56:08 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:56:08 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:56:28 INFO  Keywords:281 - Waiting for webElement...IPI.clientaccountnumber
+2024-06-12 14:56:28 INFO  Keywords:281 - Waiting for webElement...IPI.Registered_Investment_Advisor
+2024-06-12 14:56:38 INFO  Keywords:133 - ClickOnLink is called
+2024-06-12 14:56:38 INFO  Keywords:281 - Waiting for webElement...next
+2024-06-12 14:56:59 INFO  Keywords:120 - InputText is called
+2024-06-12 14:56:59 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.whatisthetotalnumberof theOwner'sandJointOwner'sdependents?
+2024-06-12 14:56:59 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.Is the Owner Married?
+2024-06-12 14:56:59 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.istheownerretired?
+2024-06-12 14:56:59 INFO  Keywords:120 - InputText is called
+2024-06-12 14:56:59 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.Ifemployed,occupation(otherwisepleaseenter"NotEmployed").
+2024-06-12 14:56:59 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.whatisyourrisktolerance/allocationstrategyforthisinvestment?
+2024-06-12 14:56:59 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.doyou haveanemergencyfundtosatisfyanyemergenciesandmajorexpenses
+2024-06-12 14:57:00 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.whatisyourrisktolerance/allocationstrategyforthisinvestment?
+2024-06-12 14:57:00 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.whatisyourannualincome(from all sources)?
+2024-06-12 14:57:00 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.whatisyourinvestmentobjectiveforthisinvestment?
+2024-06-12 14:57:00 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.areyoupurchasingthiscontractfor theGuaranteedLifetimeWithdrawal Benefit?
+2024-06-12 14:57:00 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.whatisyourtimehorizonforthisinvestment(Howlongdoyouplantokeepthisannuity)?
+2024-06-12 14:57:00 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.whatisyourfederaltaxbracket?
+2024-06-12 14:57:00 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.whatisyourestimatednetworth
+2024-06-12 14:57:11 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.whatareyourmonthlynondiscretionaryexpenses
+2024-06-12 14:57:21 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.haveyoureplacedanannuitycontract
+2024-06-12 14:57:31 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.haveyoureceivedacurrentprospectusandprivacynotice
+2024-06-12 14:57:31 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.willyoubepurchasingthisannuitywithfunds
+2024-06-12 14:57:31 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.doyouintendtoapplyformeans-testedgovernmentbenefits
+2024-06-12 14:57:32 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.I/Wehavesufficientliquidfundstosatisfyanyemergenciesandmajorexpenses
+2024-06-12 14:57:32 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.I/Weunderstandthattheonlyvalueaccessibleintheannuityisthecontractvalue.
+2024-06-12 14:57:32 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.I/Weunderstandthatthisannuitydoesnot provideaguaranteedrateofreturn
+2024-06-12 14:57:32 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.I/Weunderstandthatthereisoneinvestmentoption
+2024-06-12 14:57:32 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.I/Weunderstand that prior to initiating GLWB withdrawals
+2024-06-12 14:57:32 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.I/WeunderstandthatEarlyWithdrawals
+2024-06-12 14:57:32 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.I/WeunderstandthattheannuitychargesaMortalityandExpenseFee
+2024-06-12 14:57:33 INFO  Keywords:281 - Waiting for webElement...transactionsuitability. I/WeunderstandthatthepolicychargesaGLWBriderfee
+2024-06-12 14:57:33 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.Qualifiedcontractsonly:Iunderstandthatifwithdrawalsfromthisannuity
+2024-06-12 14:57:33 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.Immediate/deferredincomeannuities
+2024-06-12 14:57:33 INFO  Keywords:281 - Waiting for webElement...transactionsuitability.Systematicwithdrawalplanfromamutualfundportfolio
